@@ -20,5 +20,5 @@ zsploit-5-big:
 zsploit-6:
 ![Metasploit Logo](https://raw.githubusercontent.com/mainframed/metasploit_logo/master/zploit-6.png)
 
-To use this Just drop them in `<wherever you put it>`/metasploit-framework/data/logos
+To use this Just drop them in `<wherever you put it>/metasploit-framework/data/logos`
 
